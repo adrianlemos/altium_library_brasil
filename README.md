@@ -9,11 +9,12 @@ Contribua incluindo o seu componentes, mas se atente as regras de criação, só
 
 Todos esquematicos devem conter os seguintes valores
 
-*Descrição
-*Valor
-*Emcapsulamento
-*Marca
-*Modelo
-*Observação
-
+<ul>
+  <li>Descrição</li>
+  <li>Valor</li>
+  <li>Emcapsulamento</li>
+  <li>Marca</li>
+  <li>Modelo</li>
+  <li>Observação</li>
+</ul>
 
