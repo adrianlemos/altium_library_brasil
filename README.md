@@ -18,3 +18,6 @@ Todos esquematicos devem conter os seguintes valores
   <li>Observação</li>
 </ul>
 
+<h1>Pagina Wiki</h1>
+
+<div><a href="https://github.com/adrianlemos/altium_library_brasil/wiki">Caso queira saber maiores informações de Como fazer Download, Instalar e modificar a Biblioteca, Clique Aqui.</a></div>
