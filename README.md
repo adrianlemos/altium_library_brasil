@@ -46,7 +46,7 @@ Todos esquematicos devem conter os seguintes valores
 
 <h2>Componentes Passivos</h2>
 <ul>
-	<li>Resistor 	SMD 1206, 0805, 0603</li>
+	<li>Resistor 	SMD 2512, 1206, 0805, 0603</li>
 	<li>Capacitor 	SMD 1206, 0805, 0603</li>
 </ul>
 
