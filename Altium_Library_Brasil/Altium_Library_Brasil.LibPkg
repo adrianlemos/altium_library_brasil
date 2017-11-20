@@ -147,32 +147,28 @@ Path=C:\Users\Jarhead\Documents\Adrian\Altium Library Brasil\Altium_Library_Bras
 IncludeSubFolders=0
 
 [Parameter1]
-Name=
+Name=Descrição
 Value=
 
 [Parameter2]
-Name=Valor
-Value=*
+Name=Emcapsulamento
+Value=
 
 [Parameter3]
-Name=Observação
-Value=*
+Name=Marca
+Value=
 
 [Parameter4]
 Name=Modelo
-Value=*
+Value=
 
 [Parameter5]
-Name=Marca
-Value=*
+Name=Observação
+Value=
 
 [Parameter6]
-Name=Emcapsulamento
-Value=*
-
-[Parameter7]
-Name=Descrição
-Value=*
+Name=Valor
+Value=
 
 [Generic_EDE]
 OutputDir=..\..\Altium Library Brasil
