@@ -25,33 +25,43 @@ Todos esquematicos devem conter os seguintes valores
 <h1>Lista de Componentes</h1>
 
 <h2>Conectores</h2>
-
-Barras de Pinos 3 vias com Jumper
-Jack P4
-Conector KK 3 vias 180º
+<ul>
+	<li>Barras de Pinos 3 vias com Jumper</li>
+	<li>Jack P4</li>
+	<li>Conector KK 3 vias 180º</li>
+</ul>
 
 
 <h2>Microcontroladores</h2>
-
-ARM Cortex M3 LPC1756
+<ul>
+	<li>ARM Cortex M3 LPC1756</li>
+</ul>
 
 
 <h2>Modulos</h2>
-
-Módulo Wi-Fi ESP-01
+<u>
+	<li>Módulo Wi-Fi ESP-01</li>
+</u>
 
 
 <h2>Componentes Passivos</h2>
-
-Resistor 	SMD 1206, 0805, 0603
-Capacitor 	SMD 1206, 0805, 0603
+<ul>
+	<li>Resistor 	SMD 1206, 0805, 0603</li>
+	<li>Capacitor 	SMD 1206, 0805, 0603</li>
+</ul>
 
 
 <h2>Componentes Semicondutores</h2>
+<ul>
+	<li>Transistor PTH NPN BC550</li>
+	<li>Transistor PTH PNP BC560</li>
+	<li>Transistor SMD PNP BC807</li>
+	<li>Transistor SMD NPN BC817</li>
+	<li>OptoAcoplador SMD e PTH PC817</li>
+</ul>
 
-Transistor PTH NPN BC550
-Transistor PTH PNP BC560
-Transistor SMD PNP BC807
-Transistor SMD NPN BC817
-OptoAcoplador SMD e PTH PC817
+
+
+
+
 
