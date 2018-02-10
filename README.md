@@ -49,6 +49,7 @@ Todos esquematicos devem conter os seguintes valores
 <ul>
 	<li>Resistor 	SMD 2512, 1206, 0805, 0603</li>
 	<li>Capacitor 	SMD 1206, 0805, 0603</li>
+	<li>Capacitor de Tantalo SMD Case B</li>
 </ul>
 
 
@@ -59,6 +60,11 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Transistor SMD PNP BC807</li>
 	<li>Transistor SMD NPN BC817</li>
 	<li>OptoAcoplador SMD e PTH PC817</li>
+	<li>OptoAcoplador SMD e PTH 6N137</li>
+	<li>Regulador de Tensão LM1117</li>
+	<li>OptoAcoplador SMD e PTH MOC3052</li>
+	<li>Transiver RS485 MAX485 SMD e PTH</li>
+	<li></li>
 </ul>
 
 
