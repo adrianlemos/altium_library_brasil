@@ -29,6 +29,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Barras de Pinos 3 vias com Jumper</li>
 	<li>Jack P4</li>
 	<li>Conector KK 3 vias 180º</li>
+	<li>Conector BR3R 5 vias 90º</li>
 </ul>
 
 
