@@ -64,7 +64,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Regulador de Tensão LM1117</li>
 	<li>OptoAcoplador SMD e PTH MOC3052</li>
 	<li>Transiver RS485 MAX485 SMD e PTH</li>
-	<li></li>
+	<li>Diodo SMD LL4148</li>
 </ul>
 
 
