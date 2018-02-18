@@ -72,6 +72,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Led SMD 1206, 0805 - Sem Cor</li>
 	<li>Led 3mm Cores: Amarelo, Azul, Verde, Vermelho</li>
 	<li>Led 5mm Cores: Amarelo, Azul, Verde, Vermelho</li>
+	<li>Regulador de Tensão 5V 78L05ACM</li>
 </ul>
 
 
