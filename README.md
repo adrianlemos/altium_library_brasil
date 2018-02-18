@@ -45,6 +45,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Módulo Ultraminiatura Rele MA1RC2</li>
 	<li>Módulo Wi-Fi ESP-32</li>
 	<li>Módulo Arduino Pro Mini</li>
+	<li>Módulo Wi-Fi ESP-12F</li>
 </u>
 
 
