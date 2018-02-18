@@ -54,6 +54,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Resistor 	SMD 2512, 1206, 0805, 0603</li>
 	<li>Capacitor 	SMD 1206, 0805, 0603</li>
 	<li>Capacitor de Tantalo SMD Case B</li>
+	<li>Cristal HC49S</li>
 </ul>
 
 
