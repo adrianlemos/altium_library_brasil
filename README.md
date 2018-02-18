@@ -42,6 +42,8 @@ Todos esquematicos devem conter os seguintes valores
 <h2>Modulos</h2>
 <u>
 	<li>Módulo Wi-Fi ESP-01</li>
+	<li>Módulo ultraminiatura Rele MA1RC2</li>
+	<li>Módulo Wi-Fi ESP-32</li>
 </u>
 
 
