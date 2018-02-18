@@ -69,6 +69,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>OptoAcoplador SMD e PTH MOC3052</li>
 	<li>Transiver RS485 MAX485 SMD e PTH</li>
 	<li>Diodo SMD LL4148</li>
+	<li>Led SMD 1206, 0805</li>
 </ul>
 
 
