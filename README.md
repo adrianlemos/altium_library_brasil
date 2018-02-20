@@ -35,7 +35,7 @@ Todos esquematicos devem conter os seguintes valores
 
 <h2>Microcontroladores</h2>
 <ul>
-	<li>ARM Cortex M3 LPC1756</li>
+	<li>ARM Cortex M3 LPC1756 SMD</li>
 </ul>
 
 
@@ -54,7 +54,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Resistor 	SMD 2512, 1206, 0805, 0603</li>
 	<li>Capacitor 	SMD 1206, 0805, 0603</li>
 	<li>Capacitor de Tantalo SMD Case B</li>
-	<li>Cristal HC49S</li>
+	<li>Cristal SMD HC49S </li>
 </ul>
 
 
@@ -66,14 +66,15 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Transistor SMD NPN BC817</li>
 	<li>OptoAcoplador SMD e PTH PC817</li>
 	<li>OptoAcoplador SMD e PTH 6N137</li>
-	<li>Regulador de Tensão LM1117</li>
+	<li>Regulador de Tensão LM1117 SMD</li>
 	<li>OptoAcoplador SMD e PTH MOC3052</li>
 	<li>Transiver RS485 MAX485 SMD e PTH</li>
 	<li>Diodo SMD LL4148</li>
 	<li>Led SMD 1206, 0805 - Sem Cor</li>
-	<li>Led 3mm Cores: Amarelo, Azul, Verde, Vermelho</li>
-	<li>Led 5mm Cores: Amarelo, Azul, Verde, Vermelho</li>
-	<li>Regulador de Tensão 5V 78L05ACM</li>
+	<li>Led 3mm Cores: Amarelo, Azul, Verde, Vermelho PTH</li>
+	<li>Led 5mm Cores: Amarelo, Azul, Verde, Vermelho PTH</li>
+	<li>Regulador de Tensão 5V 78L05ACM SMD</li>
+	<li>Regulador de Tensão 3V3 78L33 SMD e PTH</li>
 </ul>
 
 
