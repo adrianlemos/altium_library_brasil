@@ -37,6 +37,8 @@ Todos esquematicos devem conter os seguintes valores
 <h2>Microcontroladores</h2>
 <ul>
 	<li>ARM Cortex M3 LPC1756 SMD</li>
+	<li>ATmega328-AU SMD TQFP32</li>
+	<li>ATmega328-PU PTH DIP28</li>
 </ul>
 
 
