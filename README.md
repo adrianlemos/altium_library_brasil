@@ -80,6 +80,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Regulador de Tensão 5V 78L05ACM SMD</li>
 	<li>Regulador de Tensão 3V3 78L33 SMD e PTH</li>
 	<li>Regulador de Tensão fixo e variavel LM2756 SMD</li>
+	<li>Diodo Schottky SS34 SMD</li>
 </ul>
 
 
