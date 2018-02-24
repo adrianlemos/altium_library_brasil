@@ -59,6 +59,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Capacitor 	SMD 1206, 0805, 0603</li>
 	<li>Capacitor de Tantalo SMD Case B</li>
 	<li>Cristal SMD HC49S </li>
+	<li>Indutor PTH Carretel 10mm x 12mm 700mA</li>
 </ul>
 
 
