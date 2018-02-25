@@ -31,6 +31,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Conector KK 3 vias 180º</li>
 	<li>Conector BR3R 5 vias 90º</li>
 	<li>Conector KK 2 Vias 180º</li>
+	<li>Conector Header Sem Ejetor 2x5 10 vias PTH 90º e 180º</li>
 </ul>
 
 
