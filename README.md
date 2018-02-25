@@ -83,6 +83,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Regulador de Tensão 3V3 78L33 SMD e PTH</li>
 	<li>Regulador de Tensão fixo e variavel LM2756 SMD, PTH e PTH 90º</li>
 	<li>Diodo Schottky SS34 SMD</li>
+	<li>Regulador de Tensão LM7805 PTH TO-220 e TO-220 90º</li>
 </ul>
 
 
