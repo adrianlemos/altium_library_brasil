@@ -60,7 +60,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Capacitor de Tantalo SMD Case B</li>
 	<li>Cristal SMD HC49S </li>
 	<li>Indutor PTH Carretel 10mm x 12mm 700mA</li>
-	<li>Capacitor Eletrolitico Basico PTH com Footprint 5x11x2.54mm, </li>
+	<li>Capacitor Eletrolitico Basico PTH com Footprint (Largura x Altura x Passo_do_Pad) 4x5x1.6mm, 5x11x2.54mm, 6.3x11x2.54mm, 8x11x3.5mm </li>
 </ul>
 
 
