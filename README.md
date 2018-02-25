@@ -55,8 +55,8 @@ Todos esquematicos devem conter os seguintes valores
 
 <h2>Componentes Passivos</h2>
 <ul>
-	<li>Resistor 	SMD 2512, 1206, 0805, 0603</li>
-	<li>Capacitor 	SMD 1206, 0805, 0603</li>
+	<li>Resistor 	SMD 2512, 1206, 0805, 0603, 0402</li>
+	<li>Capacitor 	SMD 1206, 0805, 0603, 0402</li>
 	<li>Capacitor de Tantalo SMD Case B</li>
 	<li>Cristal SMD HC49S </li>
 	<li>Indutor PTH Carretel 10mm x 12mm 700mA</li>
