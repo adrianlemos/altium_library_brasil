@@ -62,6 +62,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Cristal SMD HC49S </li>
 	<li>Indutor PTH Carretel 10mm x 12mm 700mA</li>
 	<li>Capacitor Eletrolitico Basico PTH com Footprint (Largura x Altura x Passo_do_Pad) 4x5x1.6mm, 5x11x2.54mm, 6.3x11x2.54mm, 8x11x3.5mm, 10x12.5x5.08mm, 10x16x5.08mm, 10x20x5.08mm, 12.5x20x5.08mm, 16x20x7.62mm, 16x25x7.62mm, 16x31.5x7.62mm </li>
+	<li>Capacitor Ceramico PTH com Passo de 5.08mm</li>
 </ul>
 
 
