@@ -12,7 +12,7 @@ Todos esquematicos devem conter os seguintes valores
 <ul>
   <li>Descrição</li>
   <li>Valor</li>
-  <li>Emcapsulamento</li>
+  <li>Encapsulamento</li>
   <li>Marca</li>
   <li>Modelo</li>
   <li>Observação</li>
