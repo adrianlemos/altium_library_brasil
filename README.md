@@ -87,6 +87,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Diodo Schottky SS34 SMD</li>
 	<li>Regulador de Tensão LM7805 PTH TO-220 e TO-220 90º</li>
 	<li>Sensor de Efeito Hall</li>
+	<li>Diodo Zenner BZX84 SMD</li>
 </ul>
 
 
