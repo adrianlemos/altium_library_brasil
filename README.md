@@ -27,6 +27,8 @@ Todos esquematicos devem conter os seguintes valores
 <h2>Conectores</h2>
 <ul>
 	<li>Barra de Pinos 2x3 6 vias 180º</li>
+	<li>Barra de Pinos 2x4 8 vias 90º</li>
+	<li>Barra de Pinos 2x6 12 vias 90º</li>
 	<li>Barras de Pinos 3 vias com Jumper</li>
 	<li>Jack P4</li>
 	<li>Conector KK 3 vias 180º</li>
@@ -62,7 +64,7 @@ Todos esquematicos devem conter os seguintes valores
 
 <h2>Componentes Passivos</h2>
 <ul>
-	<li>Resistor 	SMD 2512, 1206, 0805, 0603, 0402</li>
+	<li>Resistor 	SMD 2512, 2010, 1206, 0805, 0603, 0402</li>
 	<li>Capacitor 	SMD 1206, 0805, 0603, 0402</li>
 	<li>Capacitor de Tantalo SMD Case B</li>
 	<li>Cristal SMD HC49S </li>
@@ -85,6 +87,7 @@ Todos esquematicos devem conter os seguintes valores
 	<li>Transistor SMD PNP BC807</li>
 	<li>Transistor SMD NPN BC817</li>
 	<li>OptoAcoplador SMD e PTH PC817</li>
+	<li>OptoAcoplador SMD e PTH 4N35</li>
 	<li>OptoAcoplador SMD e PTH 6N137</li>
 	<li>Regulador de Tensão LM1117 SMD</li>
 	<li>OptoAcoplador SMD e PTH MOC3052</li>
