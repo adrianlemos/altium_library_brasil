@@ -1,4 +1,4 @@
-<title>Welcome to Altium Library Brazil :book: </title>
+# Welcome to Altium Library Brazil :book:
 
 This is a Component Library for the Altium Design Community software, it was thought to make life easier for users who need to generate the Bill Of Materials list for manufacturing their products or prototypes.
 
