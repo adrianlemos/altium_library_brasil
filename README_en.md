@@ -1,3 +1,5 @@
+## Language: | [Portuguese](./README.md) | English |
+
 <h1>Bem-Vindo à Altium Library Brasil</h1>
 
 Está é uma Biblioteca de Componentes para o software Altium Design Comunitaria, ela foi pensada em facilitar a vida dos usuarios que precisam gerar a lista de Bill Of Materials para manufaturação de seus produtos ou prototipos.

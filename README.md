@@ -1,4 +1,4 @@
-IDIOMA: | Português | [Inglês](./README_en.md) |
+## IDIOMA: | Português | [Inglês](./README_en.md) |
 
 <h1>Bem-Vindo à Altium Library Brasil</h1>
 
